@@ -1,4 +1,5 @@
 KQL Resources Repository
+
 Welcome to the KQL Resources Repository! This repository is your one-stop destination for all things related to KQL (Kusto Query Language). Whether you're a seasoned pro or just getting started, we've curated a collection of top-notch resources to help you master KQL and unlock its powerful potential.
 
 What is KQL?
